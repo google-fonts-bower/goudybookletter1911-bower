@@ -1,0 +1,17 @@
+{
+    "name": "goudybookletter1911-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Barry Schwartz"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/goudybookletter1911-bower.git"
+    },
+    "description": "Goudy Bookletter 1911 font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
